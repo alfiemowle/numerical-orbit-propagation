@@ -10,3 +10,5 @@ This project is included as an example of my work in:
 
 ---
 
+Note: All notebook output has been cleared to keep the file size small on GitHub.
+
